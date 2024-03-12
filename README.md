@@ -5,7 +5,7 @@
 - Saving tasks
 - Deleting tasks
 - Updating tasks
-- MVVM Clean Architecture; (Layout<->Fragment&Activity<->ViewModeli<->Repository<->DataSource<->Model)
+- MVVM Clean Architecture; (Layout<->Fragment&Act<->ViewModeli<->Repository<->DataSource<->Model)
 - SQLite database model; (task_id:Int,task_title:String,task_explanation:String)
 
 
